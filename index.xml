@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WebStack-Hugo 网址导航</title>
-    <link>https://webstack-hugo.weiyan.cc/</link>
-    <description>Recent content on WebStack-Hugo 网址导航</description>
+    <title>AI工具集官网 | 1000&#43; AI工具集合，国内外AI工具集导航大全</title>
+    <link>https://ai-bot.cn/</link>
+    <description>Recent content on AI工具集官网 | 1000&#43; AI工具集合，国内外AI工具集导航大全</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <atom:link href="https://webstack-hugo.weiyan.cc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ai-bot.cn/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
